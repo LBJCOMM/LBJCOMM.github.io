@@ -6,16 +6,21 @@ title: TEACHING
 <h4> Instructor: </h4>
 
 <ul align='justify'>
-  <li><a href = "https://comm.osu.edu/courses/comm-3558">COMM 3558 Social Media</a>, The Ohio State University. </li>
+  <li><a href = "https://comm.osu.edu/courses/comm-3558">COMM 3558 Social Media</a>, The Ohio State University </li>
+  <li>COMM 4390 Mass Communication Capstone, California State University, Los Angeles </li>
+  <li>COMM 4300 Mass Communication Theory, California State University, Los Angeles </li>
+  <li>COMM 3300 Methods of Communication Research (Social Science), California State University, Los Angeles </li>
+  <li>COMM 3100 Theories of Communication (Social Science), California State University, Los Angeles </li>
+  <li>COMS 5500 Theories of Communication (Graduate Seminar), California State University, Los Angeles </li>
+  <li>COMS 5620 Theories of Mass Media (Graduate Seminar), California State University, Los Angeles </li>
+  <li>COMM 304 Mass Communication Research, Pennsylvania State University </li>
 </ul>
 
 <h4> Guest Lectures: </h4>
 
 <ul align='justify'>
-  <li>Quantitative Political Analysis (Suzanna Linn, Pennsylvania State University, Fall 2017). </li>
+  <li>TBD (Suzanna Linn, Pennsylvania State University, Fall 2017). </li>
     <ul align='justify'>
-      <li>(Gave three lectures on hypothesis testing, data manipulation in R, and research ethics)</li>
-      <li><a href="/files/DataInputHelpsheet.nb.html">Data Manipulation in R Helpsheet</a></li>
-      <li><a href="/files/MergeDataHelpSheet.nb.html">Merge Data in R Helpsheet</a></li>
+      <li>(Gtbd)</li>
     </ul>
 </ul>
