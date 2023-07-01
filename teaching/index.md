@@ -19,7 +19,7 @@ title: TEACHING
 <h4> Guest Lectures: </h4>
 
 <ul align='justify'>
-  <li>TBD (Suzanna Linn, Pennsylvania State University, Fall 2017). </li>
+  <li>TBD (TBD, Pennsylvania State University, Fall 2017). </li>
     <ul align='justify'>
       <li>(Gtbd)</li>
     </ul>
